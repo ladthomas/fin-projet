@@ -6,20 +6,6 @@ Ce document regroupe l’ensemble des ressources annexes utiles à la présentat
 
 ---
 
-## 🔗 Liens utiles
-
-### 🧠 Documentation API (Stoplight)
-- 👉 [Documentation interactive de l’API Spota](https://ladthomas.stoplight.io/docs/spota/branches/main/2udzuykgooxbz-spota-backend-api)  
-  *Exploration de l’API avec endpoints, paramètres, et réponses types.*
-
----
-
-### 🗂️ Diagramme de base de données
-- 🗺️ [Visualisation du schéma relationnel](https://dbdiagram.io/d/675ad91146c15ed4792be4e8)  
-  *Structure des tables, relations entre entités, clés primaires/étrangères.*
-
----
-
 ## 📁 Repositories GitHub publics
 
 ### 🚀 Backend – API REST
