@@ -1,6 +1,6 @@
 
 
-readme_content = """# 📎 Annexes diverses – Projet Spota
+ 📎 Annexes diverses – Projet Spota
 
 Ce document regroupe l’ensemble des ressources annexes utiles à la présentation du projet **Spota**, application mobile dédiée à la découverte d’événements culturels gratuits ou abordables dans les grandes villes.
 
@@ -47,4 +47,3 @@ Ce document regroupe l’ensemble des ressources annexes utiles à la présentat
 ---
 
 
-readme_path.name
