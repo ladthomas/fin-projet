@@ -46,13 +46,5 @@ Ce document regroupe l’ensemble des ressources annexes utiles à la présentat
 
 ---
 
-## 📝 Notes
-- Toutes les ressources ci-dessus sont en accès public et régulièrement mises à jour.
-- En cas de problème d’accès ou pour toute question technique, veuillez contacter l’équipe projet.
-"""
-
-# Export to README.md
-readme_path = Path("/mnt/data/README_Annexes_Spota.md")
-readme_path.write_text(readme_content, encoding="utf-8")
 
 readme_path.name
